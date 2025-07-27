@@ -29,5 +29,7 @@ Laravel Breeze (for auth)
 
 github link = https://github.com/Abhishek7490/laravel-employee-management
 
+on env file set your slack webhook url on SLACK_WEBHOOK_URL on this varibale.
+and for email set your email configuration in env file.
 whenever you run the php artisan migrate the front url will open.
 if you set front url/admin like that it will open admin side with login and register page.
