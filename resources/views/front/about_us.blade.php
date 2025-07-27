@@ -5,7 +5,7 @@
         padding-left: 5%!important;
     }
     .static-img{
-        height:60%;
+        height:60% !important;
         width:100%;
     }
 </style>
